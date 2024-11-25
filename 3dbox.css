@@ -1,0 +1,22 @@
+.card {
+    width: 190px;
+    height: 270px;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: 40px 50px 40px #bebebe,
+    -20px -20px 40px #ffffff;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+
+}
+html body {
+    background-color: #ffdada;
+}
+.owner{
+    color: rgb(17, 110, 141);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: solid rgb(17, 110, 141) 3px;
+    border-radius: 10px;
+    width: 138px;
+}
